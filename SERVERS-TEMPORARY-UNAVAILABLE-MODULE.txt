@@ -1,5 +1,7 @@
 
-SERVER: 'smtp.gmail.com' PORT 587  *** RECOMMENDED *** - STATUS: Tested OK
+SERVER: 'smtp.gmail.com' PORT 587 *** RECOMMENDED *** - STATUS: Tested OK
+
+SERVER: 'smtp.poczta.onet.pl' PORT 465
 
 SERVER: 'smtp.live.com' PORT: 587 - STATUS: Tested OK
 
